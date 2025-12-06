@@ -1,39 +1,132 @@
-<!-- Typing-Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi+I'm+Joseph+Amoako+Antwi-Boasiako;Software+Developer| Web & Mobile | ML Enthusiast;Building Accessible & Impactful Technology 🚀)](https://git.io/typing-svg)
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Joseph+Amoako+Antwi-Boasiako;Software+Developer;Web+%2B+Mobile+%2B+Machine+Learning;Building+Accessible+Impactful+Technology" />
+</p>
 
-<!-- Optional: Custom Banner for Light/Dark Mode -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="path/to/your-dark-banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="path/to/your-light-banner.png">
-  <img alt="Banner" src="path/to/your-default-banner.png" />
-</picture>
--->
+<!-- Header -->
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<h3 align="center">Software Developer | Web & Mobile | Machine Learning | Web3 (Learning)</h3>
 
-## 👨‍💻 About Me  
-Hi, I'm **Joseph Amoako Antwi-Boasiako** — Software Developer passionate about building accessible, scalable and impactful technology.  
+<p align="center">
+  <em>“I build solutions that are accessible, scalable, and truly impactful.”</em>
+</p>
 
 ---
 
-## 🧰 My Tech Stack & Skills
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AmoakoJoseph&label=Profile%20Views&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-```svg
-<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="600" height="200" fill="#1E1E1E"/>
-  <!-- Labels -->
-  <text x="20" y="30" fill="#FFFFFF" font-size="20">Languages & Frameworks</text>
-  <!-- Bars -->
-  <!-- React -->
-  <text x="20" y="60" fill="#61DAFB" font-size="16">React</text>
-  <rect x="120" y="50" width="200" height="15" fill="#61DAFB" />
-  <!-- Python -->
-  <text x="20" y="90" fill="#3776AB" font-size="16">Python</text>
-  <rect x="120" y="80" width="180" height="15" fill="#3776AB" />
-  <!-- TypeScript -->
-  <text x="20" y="120" fill="#3178C6" font-size="16">TypeScript</text>
-  <rect x="120" y="110" width="160" height="15" fill="#3178C6" />
-  <!-- Java -->
-  <text x="20" y="150" fill="#007396" font-size="16">Java</text>
-  <rect x="120" y="140" width="140" height="15" fill="#007396" />
-</svg>
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🚀 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat" />
+</p>
+
+---
+
+## 🌟 Featured Project  
+### 🔗 **[E-Commerce Website](https://github.com/AmoakoJoseph/ecom.git)**  
+A complete, scalable e-commerce platform built with a clean UI and modern development practices.
+
+- 🛍️ User-friendly shopping  
+- 🔐 Authentication included  
+- 🧩 Modular architecture  
+- ⚡ Optimized and responsive  
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Software Developer** dedicated to building software that improves user experience and solves real-world problems.  
+My interests lie in:
+
+- Full-stack web development  
+- Mobile app development (Flutter)  
+- Machine learning  
+- Web3/Blockchain development (learning)  
+- Fintech & modern digital banking systems  
+
+I value clarity, structure, and accessibility in everything I build.
+
+---
+
+## 🔥 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmoakoJoseph&margin-w=10&theme=radical" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmoakoJoseph&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmoakoJoseph&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmoakoJoseph&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ⚡ What I’m Working On
+- 🔐 A Web3/FinTech system using Next.js & Laravel  
+- 📦 Upgrading my personal e-commerce project  
+- 🤖 Expanding machine learning knowledge  
+- 🛠 Building a modern financial dashboard  
+
+---
+
+## 📚 What I’m Learning Next
+- Smart contracts (Solidity)  
+- Cloud deployment (AWS + Vercel)  
+- Advanced system design  
+- Secure Web3 wallet interactions  
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/joseph-amoako-antwi-boasiako">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" />
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?style=flat&logo=buymeacoffee" /></a>
+</p>
+
+---
+
+## ✨ Fun Quote  
+> “To do a great right do a little wrong,  
+> And curb this cruel devil of his will.”  
+> — Shakespeare
+
+---
