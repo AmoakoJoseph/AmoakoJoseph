@@ -117,13 +117,6 @@ I value clarity, structure, and accessibility in everything I build.
 
 ---
 
-## ☕ Support My Work
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?style=flat&logo=buymeacoffee" /></a>
-</p>
-
----
-
 ## ✨ Fun Quote  
 > “To do a great right do a little wrong,  
 > And curb this cruel devil of his will.”  
