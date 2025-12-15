@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Joseph+Amoako+Antwi-Boasiako;Software+Developer;Web+%2B+Mobile+%2B+Machine+Learning;Building+Accessible+Impactful+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Joseph+Amoako+Antwi+Boasiako;Software+Developer;Web+%2B+Mobile+%2B+Machine+Learning;Building+Accessible+Impactful+Technology" />
 </p>
 
 <!-- Header -->
